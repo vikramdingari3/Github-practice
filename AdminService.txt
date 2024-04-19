@@ -1,7 +1,7 @@
 add and remove users
 change the roles
 
-manage the database
+manage Niharika's database
 
 change1
 change2 in Niharika's database
